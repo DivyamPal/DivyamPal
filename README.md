@@ -37,11 +37,12 @@ Here are some ideas to get you started:
 
 
 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aayushi221)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ap221//)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/aayushi_221)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aayushipandey.netlify.app/)  
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DivyamPal)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://in.linkedin.com/in/divyampal)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Divyam2402)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamPal)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyamPal&show_icons=true)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyamPal&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivyamPal)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivyamPal) -->
