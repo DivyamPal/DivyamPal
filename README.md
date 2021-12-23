@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
 
 <br/>
 
