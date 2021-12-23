@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Express](https://img.shields.io/badge/-React-333333?style=flat&logo=express)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
