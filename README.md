@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> my name is Divyam Pal</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DivyamPal&label=Profile%20views&color=0e75b6&style=flat" alt="DivyamPal" /> </p>
 <h3> I am an undergrad. Currently learning Deep Learning and working on a project Deceptive Content Analysis with Deep Learning.</h3>
 
 ## 🛠 &nbsp;Tech Stack
