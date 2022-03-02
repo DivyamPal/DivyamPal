@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamPal)](https://github.com/DivyamPal/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyamPal&show_icons=true)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyamPal&theme=dark)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyamPal&theme=dark)
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivyamPal) -->
