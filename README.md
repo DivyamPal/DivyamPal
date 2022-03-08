@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DivyamPal)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://in.linkedin.com/in/divyampal)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Divyam2402)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamPal)](https://github.com/DivyamPal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamPal)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyamPal&show_icons=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyamPal&theme=dark)
