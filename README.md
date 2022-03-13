@@ -45,5 +45,6 @@ Here are some ideas to get you started:
 
 ![Divyam's Github stats](https://github-readme-stats.vercel.app/api?username=DivyamPal&theme=jolly&show_icons=true)  
 ![Divyam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyamPal&theme=jolly&show_icons=true)
+![Divyam's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=iam-krj&theme=jolly)
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivyamPal) -->
