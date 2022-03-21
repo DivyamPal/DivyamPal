@@ -29,7 +29,8 @@ Here are some ideas to get you started:
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-- ![SQL](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
+- 🌐 &nbsp;
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
