@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1>Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> my name is Divyam Pal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DivyamPal&label=Profile%20views&color=0e75b6&style=flat" alt="DivyamPal" /> </p>
-<h3>I am a postgraduate student at NIT Rourkela, currently ECG Digitization.</h3>
+<h3>I am a postgraduate student at NIT Rourkela, currently working on Digitization of ECGs.</h3>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 🔭 I’m currently working on ECG Digitization and creating a smartphone application of heart monitoring system.
+- 🔭 I’m currently working on Digitization of ECGs and creating a smartphone application of heart monitoring system.
 
 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DivyamPal)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://in.linkedin.com/in/divyampal)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Divyam2402)  
